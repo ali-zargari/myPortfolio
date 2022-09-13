@@ -4,7 +4,7 @@
 \
 ***************************************IMPORTANT***************************************
 
-To test the features of this site visit: https://ali-zargari.github.io/CMPE-131-HW1/
+To test the features of this site visit: https://ali-zargari.github.io/myPortfolio/
 
 _DO NOT_ Run this project by clicking on Resume.HTML. The files given are only to review the source code,
 and the full project requires to be hosted on a local-host server to run properly. Thus, the only way to
