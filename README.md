@@ -16,7 +16,6 @@ fully visit the website is through the given link, or by hosting it on a localho
 \
 \
 Name: Ali Zargari
-ID: 010662964
 
 Transcript is pulled directly from google sheets, in the file raw_transcript.
 
